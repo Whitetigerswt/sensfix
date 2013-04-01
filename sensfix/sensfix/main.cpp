@@ -5,7 +5,6 @@
 #include <string>
 
 static void WINAPI Load();
-void vp(DWORD address, int s);
 
 float Sensitivity = 0.0125000002f;
 
@@ -30,6 +29,7 @@ BOOL APIENTRY DllMain( HMODULE hModule,
 	return TRUE;
 }
 
+// Credits: MTA Team for MemPutFast
 template < class T, class U >
 void MemPutFast ( U ptr, const T value )
 {
