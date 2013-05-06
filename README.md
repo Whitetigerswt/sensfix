@@ -4,6 +4,6 @@ The difference is, there is no way to edit the sensitivity ingame, however, the 
 
 as far as i can tell, there is not a seperate sensitivity while aiming with sniper, this address edits sensitivity with everything you do in the game
 
-only tested on vc1.1 and gta31.1 exe's
+only tested on vc1.1 and gta3 1.1 exe's
 
 compiled .ASI: https://u-army.com/tiger/random/3_vc_sensfix.asi
