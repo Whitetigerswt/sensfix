@@ -6,4 +6,4 @@ as far as i can tell, there is not a seperate sensitivity while aiming with snip
 
 only tested on vc1.1 and gta3 1.1 exe's
 
-compiled .ASI: https://u-army.com/tiger/random/3_vc_sensfix.asi
+compiled .ASI: https://sixtytiger.com/tiger/random/3_vc_sensfix.asi
